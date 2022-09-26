@@ -101,7 +101,7 @@ images:
   header_overlay: rgba(0, 0, 0, 0.3)
 
 site_colors:
-  brand_color: '#7C5295'
+  brand_color: '#00a1b0'
   theme_color: '#000000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
