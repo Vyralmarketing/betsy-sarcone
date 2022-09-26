@@ -10,21 +10,25 @@ custom_links_new_tab:
     url:
 
 client:
-  name:
-  title:
+  name: Betsy Sarcone
+  title: Licensed REALTOR in IA
   license_number:
   about_markdown: |
+    With a background in marketing, I started my real estate career in 2008. Growing up in the industry and in Des Moines, I had a fantastic foundation for building a real estate business.
 
+    I have found success through focusing on the needs of my clients, always with honesty and a smile. Education is a huge part of my business, as I want to make sure you are making the best decision for your future--and for your wallet.
+
+    Whether you are a first time homebuyer, relocating or looking to sell a home I have the knowledge you need to make the right decision. Call or email me today to find out how I have so many happy clients!
   brand:
-  brokerage:
-  market:
-  address:
-  phone:
+  brokerage: Keller Williams Greater Des Moines
+  market: Des Moines
+  address: 4001 Westown Parkway West Des Moines, IA 50266
+  phone: 515-329-0840
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Sarconeteam@kw.com
+  url: http://betsysarcone.com
 
 forms:
   sitekey:
@@ -64,16 +68,16 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/BetsyRealEstate
+  linkedin_url: https://www.linkedin.com/pub/betsy-sarcone/4/42a/a80
+  youtube_url: https://www.youtube.com/channel/UCGyxV-4WG1r8YwWhaKl46zg
+  twitter_url: https://twitter.com/BetsySarcone
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/BSarcone/
+  trulia_url: http://www.trulia.com/profile/betsy-sarcone-agent-west-des-moines-ia-4129910/overview
+  yelp_url: http://www.yelp.com/biz/betsy-sarcone-keller-williams-realty-greater-des-moines-clive
+  podcast_url: https://itunes.apple.com/us/podcast/greater-des-moines-real-estate/id1066408058?mt=2
   google_business_url:
 
 podcast:
@@ -107,7 +111,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
