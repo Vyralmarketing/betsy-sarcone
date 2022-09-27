@@ -37,7 +37,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://home-search-sarcone.paperform.co/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -51,7 +51,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a Home?"
     CTA_text2: "Search the entire MLS for your home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://home-search-sarcone.paperform.co/
 
 lender:
   show_section: false
