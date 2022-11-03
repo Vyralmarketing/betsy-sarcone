@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/interest-rates-yt.jpg
-youtube_code: ttUrIQ-P3XY
+youtube_code: ePRdnKejJ_I
 ---
 {% include youtube.html %}
 
