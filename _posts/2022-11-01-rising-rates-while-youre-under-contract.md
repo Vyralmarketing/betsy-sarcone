@@ -4,7 +4,8 @@ title: Rising Rates While You’re Under Contract
 date: 2022-11-01 05:00:00
 tags:
 excerpt: You have options to safeguard yourself from fluctuating rates.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Betsy+Sarcone/2022/Rising+Rates+While+You%E2%80%99re+Under+Contract+(1).mp4
 pullquote: >-
   A rate lock ensures you won’t have to cancel a deal simply because interest
   rates spiked.
