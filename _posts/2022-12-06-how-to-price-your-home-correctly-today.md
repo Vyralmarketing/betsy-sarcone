@@ -4,7 +4,8 @@ title: 'How to Price Your Home Correctly Today '
 date: 2022-12-06 05:00:00
 tags:
 excerpt: 'When you’re selling your home, make sure to avoid these common mistakes. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Betsy+Sarcone/2022/How+to+Price+Your+Home+Correctly+Today.mp4
 pullquote: 'Prices fluctuate, so be willing to be flexible. '
 enclosure_type: video/mp4
 enclosure_time:
