@@ -4,7 +4,8 @@ title: Happy Holidays From Us
 date: 2022-12-16 00:00:00
 tags:
 excerpt: From our team to your family, we want to wish you a happy holiday season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Betsy+Sarcone/2022/Happy+Holidays+From+Us+(3).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
