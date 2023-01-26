@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/how-much-you-keep-yt.jpg
-youtube_code: 5zPAt18fNlo
+youtube_code: QusxwSQDTrM
 ---
 {% include youtube.html %}
 
@@ -26,8 +26,8 @@ After that, figuring out how much of the money from your home sale that you’ll
 
 Here is an important calculation to use: take your home’s estimated sale price, then subtract the balance of your remaining mortgage loan, then subtract expenses—that’s how much money you’ll get to keep when selling your home.&nbsp;
 
-Some common expenses that come with a home sale include staging costs, closing costs, title fees, remaining bills, and moving costs. It adds up\! That’s why it is very important to take them into account when calculating the amount of money you expect to keep after your sale.&nbsp;
+Some common expenses that come with a home sale include staging costs, closing costs, title fees, remaining bills, and moving costs. It adds up! That’s why it is very important to take them into account when calculating the amount of money you expect to keep after your sale.&nbsp;
 
 However, know that there are ways to reduce those expenses. If you’re handy, you can DIY projects when possible. You could consider cost-effective staging, and get a professional opinion on what changes will actually make a difference in your final sales price. Lastly, it will benefit you to have help from an agent that is an experienced professional. **Having a good agent will help you sell your home for the most money possible and greatly increase your net proceeds.&nbsp;**
 
-I want you to be able to keep a lot of money after selling your home. If you want my help with selling, or if you have any questions, don’t hesitate to reach out\! I look forward to hearing from you.&nbsp;
+I want you to be able to keep a lot of money after selling your home. If you want my help with selling, or if you have any questions, don’t hesitate to reach out! I look forward to hearing from you.&nbsp;
